@@ -15,7 +15,7 @@ An end-to-end system that evaluates PDF resumes against a job description using 
 - Results saved to `results/analysis_results.json`
 
 ### Requirements
-- Python 3.9+
+- Python 3.8+
 - A Google Gemini API key
 
 ### Quick Start
